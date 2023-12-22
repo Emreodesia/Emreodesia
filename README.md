@@ -34,6 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Emreodesia/Emreodesia/output/snake.svg" alt="Snake animation" />
+
 
 ###
