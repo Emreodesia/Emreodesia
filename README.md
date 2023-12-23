@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">🎯I’m currently working with jQuery and anything related with JavaScript.</p>
+<p align="center">🎯I’m currently working with jQuery and anything related with JavaScript.</p>
 
 ###
 
-<p align="left">📝 I’m just a Software Developer who wants to make useful products for people’s daily life.</p>
+<p align="center">📝 I’m just a Software Developer who wants to make useful products for people’s daily life.</p>
 
 ###
 
