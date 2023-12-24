@@ -34,7 +34,9 @@
 
 ###
 
-  <img src="https://media.giphy.com/media/eFvs5iE6a6ntVIRaEN/giphy.gif"/>
+  <div align="center">
+  <img height="200" src="https://media.giphy.com/media/eFvs5iE6a6ntVIRaEN/giphy.gif"  />
+  </div>
 
 
 ###
