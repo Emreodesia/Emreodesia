@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎯I’m currently working with jQuery and anything related with JavaScript.</p>
+<p align="center">🎯I’m currently working with React  and anything related with JavaScript.</p>
 
 ###
 
